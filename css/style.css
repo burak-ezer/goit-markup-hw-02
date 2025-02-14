@@ -88,6 +88,14 @@ p {
     background-color: #2e2f42;
 }
 
+.logo_sinif{
+    font-family: "Raleway";
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
+}
+
 button {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;

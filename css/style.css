@@ -11,7 +11,7 @@ header {
     text-transform: uppercase;
     color: #4d5ae5;
 }
-a.logo-sinif{
+a{
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -38,7 +38,7 @@ a:focus {
 }
 
 section {
-    background-color: #2e2f42;
+    background-color: #f4f4fd;
 }
 
 section.bolum-bir h1 {

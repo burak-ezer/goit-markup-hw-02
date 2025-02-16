@@ -37,6 +37,10 @@ a:focus {
     
 }
 
+section {
+    background-color: #f4f4fd;
+}
+
 section.bolum-bir h1 {
     font-size: 56px;
     line-height: 1.07;
@@ -89,7 +93,7 @@ p {
 }
 
 .logo-sinif{
-    font-family: "Raleway";
+    font-family: "Raleway",sans-serif;
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;

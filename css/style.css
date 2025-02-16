@@ -5,7 +5,6 @@ body {
 }
 header {
     font-weight: 700;
-    font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -21,9 +20,7 @@ a{
 }
 .classsinif {
     color: #2e2f42;
-    font-family: "Raleway";
-    font-weight: 700;
-    font-family: "Raleway";
+    font-family: "Raleway",sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -50,15 +47,12 @@ section.bolum-bir h1 {
 }
  footer {
     color: #2e2f42;
-    font-family: "Raleway";
-    font-weight: 700;
-    font-family: "Raleway";
+    font-family: "Raleway",sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
 }
 span {
     color: #2e2f42;
@@ -90,7 +84,7 @@ p {
     background-color: #2e2f42;
 }
 
-.h1_1 {
+.h1-bir {
     background-color: #2e2f42;
 }
 
@@ -100,6 +94,7 @@ p {
     line-height: 1.17;
     letter-spacing: 0.03em;
     color: #4d5ae5;
+    font-size: 18px;
 }
 
 button {

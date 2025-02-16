@@ -37,11 +37,8 @@ a:focus {
     
 }
 
-section {
-    background-color: #f4f4fd;
-}
-
 section.bolum-bir h1 {
+    background-color: #f4f4fd;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;

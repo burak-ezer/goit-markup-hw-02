@@ -126,10 +126,14 @@ button:focus {
     background-color: #404BBF;
 }
 
-.logo-span {
+footer.logo-span {
     color: #2e2f42;
 }
 
 address {
     font-style: normal;
+}
+
+.bolum-uc.uc-h3 {
+    background-color: #FFFFFF;
 }

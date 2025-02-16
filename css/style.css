@@ -138,14 +138,6 @@ address {
     background-color: #FFFFFF;
 }
 
-.alt-bilgi.logo-span {
-    color: #2e2f42;
-}
-
-.alt-bilgi.bolum-bir {
-    background-color: #2e2f42;
-}
-
-.logo-span {
+.alt-bilgi .logo-span {
     color: #2e2f42;
 }

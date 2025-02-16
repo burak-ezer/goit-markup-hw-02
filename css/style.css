@@ -11,7 +11,7 @@ header {
     text-transform: uppercase;
     color: #4d5ae5;
 }
-a{
+a.logo-sinif{
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -123,4 +123,8 @@ button:focus {
 
 .logo-span {
     color: #2e2f42;
+}
+
+address {
+    font-style: normal;
 }

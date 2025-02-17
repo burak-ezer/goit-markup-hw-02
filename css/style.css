@@ -13,7 +13,7 @@ header {
 }
 
 .baslik-a {
-    color: #2e2f42;
+    color: #434455;
 }
 
 .logo-sinif .logo-span {
@@ -44,7 +44,7 @@ a:focus {
 }
 
 .bolum-bir {
-    background-color: #f4f4fd;
+    background-color: #2e2f42;
 }
 
 section.bolum-bir h1 {

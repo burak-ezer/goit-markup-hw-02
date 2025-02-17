@@ -48,6 +48,10 @@ section.bolum-uc {
     background-color: #f4f4fd;
 }
 
+section.bolum-uc.eleman-uc {
+    background-color: #FFFFFF;
+}
+
 footer {
   background-color: #2e2f42;
   font-family: 'Raleway', sans-serif;

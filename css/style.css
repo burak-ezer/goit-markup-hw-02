@@ -13,7 +13,7 @@ header {
 }
 
 
-.bas-a {
+.baslik-a {
   color: #2e2f42;
   background-color: #2e2f42;
 }
@@ -76,7 +76,7 @@ footer {
   text-transform: uppercase;
 }
 
-.alt-bilgi.footer-p {
+.alt-bilgi .footer-p {
   color: #f4f4fd;
 }
 

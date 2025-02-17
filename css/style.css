@@ -13,16 +13,16 @@ header {
 }
 
 .baslik-a {
-    color: #434455;
+  color: #434455;
 }
 
 .logo-sinif .logo-span {
-  color: #2E2F42;
+  color: #2e2f42;
 }
 
 .alt-bilgi .logo-sinif .logo-span {
-    color: #f4f4fd;
-  }
+  color: #f4f4fd;
+}
 
 a {
   font-weight: 500;
@@ -44,7 +44,7 @@ a:focus {
 }
 
 .bolum-bir {
-    background-color: #2e2f42;
+  background-color: #2e2f42;
 }
 
 section.bolum-bir h1 {
@@ -57,11 +57,11 @@ section.bolum-bir h1 {
 }
 
 .bolum-uc {
-    background-color: #f4f4fd;
+  background-color: #f4f4fd;
 }
 
 .bolum-uc .eleman-uc {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 footer {

@@ -16,6 +16,10 @@ header {
   color: #2e2f42;
 }
 
+.alt-bilgi.logo-sinif.logo-span {
+    color: #2e2f42;
+  }
+
 a {
   font-weight: 500;
   line-height: 1.5;

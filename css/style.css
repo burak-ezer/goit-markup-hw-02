@@ -43,6 +43,10 @@ a:focus {
   color: #f4f4fd;
 }
 
+.bolum-bir {
+    background-color: #2e2f42;
+}
+
 section.bolum-bir h1 {
   background-color: #f4f4fd;
   font-size: 56px;

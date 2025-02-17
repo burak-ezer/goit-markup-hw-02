@@ -32,6 +32,10 @@ a:focus {
     
 }
 
+.footer-p {
+    color: #F4F4FD;
+}
+
 section.bolum-bir h1 {
     background-color: #f4f4fd;
     font-size: 56px;

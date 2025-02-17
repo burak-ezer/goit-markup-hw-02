@@ -11,6 +11,11 @@ header {
     text-transform: uppercase;
     color: #4d5ae5;
 }
+
+span {
+    color: #2e2f42;
+}
+
 a{
     font-weight: 500;
     line-height: 1.5;

@@ -35,7 +35,7 @@ a:focus {
   color: #f4f4fd;
 }
 
-section.bolum-bir h1 {
+.section.bolum-bir h1 {
   background-color: #f4f4fd;
   font-size: 56px;
   line-height: 1.07;
@@ -44,11 +44,11 @@ section.bolum-bir h1 {
   color: #ffffff;
 }
 
-section.bolum-uc {
+.section.bolum-uc {
     background-color: #f4f4fd;
 }
 
-section.bolum-uc.eleman-uc {
+.section.bolum-uc.eleman-uc {
     background-color: #FFFFFF;
 }
 

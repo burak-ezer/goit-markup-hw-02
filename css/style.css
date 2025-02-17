@@ -12,10 +12,6 @@ header {
   color: #4d5ae5;
 }
 
-eleman-uc {
-  background-color: #FFFFFF;
-}
-
 .baslik-a {
     color: #434455;
 }
@@ -60,8 +56,12 @@ section.bolum-bir h1 {
   color: #ffffff;
 }
 
-section.bolum-uc {
+.bolum-uc {
     background-color: #f4f4fd;
+}
+
+.bolum-uc .eleman-uc {
+  background-color: #FFFFFF;
 }
 
 footer {
